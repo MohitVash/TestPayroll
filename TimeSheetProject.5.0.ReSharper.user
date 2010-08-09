@@ -1,0 +1,222 @@
+<Configuration>
+  <SettingsComponent>
+    <string />
+    <integer />
+    <boolean>
+      <setting name="livetemplates.csharp.usevar">True</setting>
+      <setting name="SolutionAnalysisEnabled">False</setting>
+    </boolean>
+  </SettingsComponent>
+  <RecentFiles>
+    <RecentFiles>
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Default.aspx" caret="284" fromTop="7" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Projects.cs" caret="235" fromTop="10" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/d:Styles/f:IonnorTimesheet.css" caret="230" fromTop="14" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Task.cs" caret="637" fromTop="19" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3735" fromTop="11" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx.cs" caret="2873" fromTop="11" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Site.Master.designer.cs" caret="132" fromTop="1" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Site.Master.cs" caret="359" fromTop="17" />
+    </RecentFiles>
+    <RecentEdits>
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4337" fromTop="8" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3840" fromTop="5" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="5193" fromTop="5" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4932" fromTop="5" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4922" fromTop="5" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3809" fromTop="23" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4376" fromTop="26" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3809" fromTop="14" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4375" fromTop="26" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3061" fromTop="5" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4408" fromTop="14" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4236" fromTop="21" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="1671" fromTop="21" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4733" fromTop="25" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Task.cs" caret="804" fromTop="19" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="1266" fromTop="4" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="8932" fromTop="9" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3934" fromTop="94" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="4610" fromTop="94" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="9305" fromTop="4" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="8750" fromTop="6" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="9077" fromTop="6" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="1135" fromTop="12" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="3733" fromTop="11" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="795" fromTop="12" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx" caret="974" fromTop="17" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx.cs" caret="2649" fromTop="6" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:TimeSheetMainPage.ascx.cs" caret="2841" fromTop="10" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Site.Master.cs" caret="334" fromTop="12" />
+      <File id="45C6D6A9-6C95-4BB7-A8FF-F60344660BB2/f:Site.Master.designer.cs" caret="469" fromTop="15" />
+    </RecentEdits>
+  </RecentFiles>
+  <NAntValidationSettings>
+    <NAntPath value="" />
+  </NAntValidationSettings>
+  <UnitTestRunner>
+    <Providers />
+  </UnitTestRunner>
+  <UnitTestRunnerNUnit>
+    <NUnitInstallDir IsNull="False">
+    </NUnitInstallDir>
+    <UseAddins>Never</UseAddins>
+  </UnitTestRunnerNUnit>
+  <CompletionStatisticsManager>
+    <ItemStatistics item="Default">
+      <Item value="." priority="0" />
+      <Item value="Styles" priority="1" />
+      <Item value="IonnorTimesheet.css" priority="0" />
+      <Item value="ListBox`0" priority="0" />
+      <Item value="listBoxTeamMembers" priority="0" />
+      <Item value="DateTime`0" priority="11" />
+      <Item value="Convert`0" priority="2" />
+      <Item value="ArrayList`0" priority="0" />
+      <Item value="public" priority="3" />
+      <Item value="_project" priority="1" />
+      <Item value="Add`0" priority="1" />
+      <Item value="new" priority="9" />
+      <Item value="List&lt;Project&gt;" priority="0" />
+      <Item value="string" priority="4" />
+      <Item value="AppDomainSetup`0" priority="0" />
+      <Item value="Project`0" priority="0" />
+      <Item value="List" priority="2" />
+      <Item value="Task`0" priority="4" />
+      <Item value="_tasks" priority="0" />
+      <Item value="Task" priority="1" />
+      <Item value="Description" priority="0" />
+      <Item value="Project" priority="2" />
+      <Item value="return" priority="2" />
+      <Item value="tasks" priority="1" />
+      <Item value="if" priority="0" />
+      <Item value="IsPostBack" priority="0" />
+      <Item value="DataGridView" priority="7" />
+      <Item value="task" priority="6" />
+      <Item value="dataTable" priority="2" />
+      <Item value="DataTable" priority="1" />
+      <Item value="IDataBindingsAccessor`0" priority="0" />
+      <Item value="DataRow`0" priority="2" />
+      <Item value="headerRow" priority="1" />
+      <Item value="DataTable`0" priority="1" />
+      <Item value="private" priority="0" />
+      <Item value="_field" priority="0" />
+      <Item value="BoundField" priority="0" />
+      <Item value="taskList" priority="1" />
+      <Item value="foreach" priority="1" />
+      <Item value="DataRow" priority="0" />
+      <Item value="row" priority="0" />
+      <Item value="TaskClass`0" priority="2" />
+      <Item value="List&lt;TaskClass&gt;" priority="0" />
+      <Item value="TaskClass" priority="0" />
+      <Item value="Eval`0" priority="0" />
+      <Item value="var" priority="0" />
+      <Item value="static" priority="0" />
+      <Item value="rptTasks" priority="1" />
+      <Item value="protected" priority="0" />
+      <Item value="date1" priority="0" />
+      <Item value="FillErrorEventArgs`0" priority="0" />
+      <Item value="dateTime" priority="0" />
+      <Item value="txtDate" priority="0" />
+      <Item value="startOfWeek" priority="1" />
+      <Item value="startofWeek" priority="0" />
+      <Item value="TimeSpan`0" priority="0" />
+      <Item value="lblDate" priority="1" />
+      <Item value="startOfLastWeek" priority="0" />
+      <Item value="this" priority="0" />
+      <Item value="lblHidden" priority="1" />
+      <Item value="txtHidd" priority="1" />
+      <Item value="s" priority="7" />
+      <Item value="lastIndex" priority="0" />
+      <Item value="firstIndex" priority="0" />
+      <Item value="int" priority="2" />
+      <Item value="length" priority="0" />
+      <Item value="char" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListBox">
+      <Item value="Items" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.ListItemCollection">
+      <Item value="Add`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TextBox">
+      <Item value="Text" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.DateTime">
+      <Item value="Now" priority="2" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.Convert">
+      <Item value="ToString`0" priority="0" />
+      <Item value="ToDateTime`0" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.ArrayList">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Collections.Generic.List`1">
+      <Item value="Items" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TimeSheetProject.Task">
+      <Item value="GetTasks`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridView">
+      <Item value="Columns" priority="1" />
+      <Item value="HeaderRow" priority="0" />
+      <Item value="DataBind`0" priority="1" />
+      <Item value="DataSource" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.DataControlField">
+      <Item value="HeaderText" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.GridViewRow">
+      <Item value="Cells" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.TableCell">
+      <Item value="Text" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TimeSheetProject.TaskClass">
+      <Item value="Project" priority="1" />
+      <Item value="GetTasks`0" priority="0" />
+      <Item value="Task" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:TimeSheetProject.ProjectClass">
+      <Item value="Project" priority="1" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.String">
+      <Item value="ToString`0" priority="0" />
+      <Item value="Trim`0" priority="2" />
+      <Item value="Substring`0" priority="0" />
+      <Item value="IndexOf`0" priority="1" />
+      <Item value="LastIndexOf`0" priority="0" />
+      <Item value="Length" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlTable">
+      <Item value="thead" priority="0" />
+      <Item value="border" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@TimeSheetProject.Task">
+      <Item value="GetTasks`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Repeater">
+      <Item value="DataSource" priority="0" />
+      <Item value="DataBind`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.DateTime">
+      <Item value="Day" priority="1" />
+      <Item value="ToString`0" priority="1" />
+      <Item value="AddDays`0" priority="2" />
+      <Item value="Date" priority="0" />
+      <Item value="ToShortDateString`0" priority="0" />
+      <Item value="Subtract`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:@System.TimeSpan">
+      <Item value="FromDays`0" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.WebControls.Label">
+      <Item value="TabIndex" priority="0" />
+      <Item value="Text" priority="2" />
+      <Item value="ClientID" priority="0" />
+    </ItemStatistics>
+    <ItemStatistics item="Qualified:System.Web.UI.HtmlControls.HtmlInputHidden">
+      <Item value="Value" priority="0" />
+    </ItemStatistics>
+  </CompletionStatisticsManager>
+</Configuration>
