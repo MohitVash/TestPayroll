@@ -1,0 +1,24 @@
+﻿body 
+{
+    
+}
+
+    
+    .ms-mainheading
+    {
+        font-family: Verdana;
+        font-size: medium;
+    text-decoration: underline;
+}
+ .ms-pagelabels
+    {
+        font-family: Verdana;
+        font-size: small;
+    
+   
+}
+
+.ms-listbox
+{font-family: Verdana;
+ font-size: smaller;
+    }
